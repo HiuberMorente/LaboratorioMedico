@@ -32,8 +32,8 @@ namespace PRESENTACION
         private void MostrarDetalles() {
 
             this.datadetalle.DataSource = Npruebas.MostrarDetalle(Convert.ToInt32(this.txtid.Text));
-            this.datadetalle.Columns["Total"].DefaultCellStyle.Format = "N2";
-            this.datadetalle.Columns["Precio"].DefaultCellStyle.Format = "N2";
+            //this.datadetalle.Columns["Total"].DefaultCellStyle.Format = "N2";
+            //this.datadetalle.Columns["Precio"].DefaultCellStyle.Format = "N2";
             OcultarColumnas();           
                 
 
