@@ -126,4 +126,3 @@ C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\Capacomun.pdb
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.pdb
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\ACCESOADATOS.pdb
-C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete

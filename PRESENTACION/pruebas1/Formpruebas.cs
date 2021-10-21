@@ -40,7 +40,7 @@ namespace PRESENTACION
             this.datacompra.Columns[1].Visible = false;
             this.datacompra.Columns[2].Visible = false;
             this.datacompra.Columns[7].Visible = false;
-            this.datacompra.Columns[12].Visible = false;
+            //this.datacompra.Columns[12].Visible = false;
 
         }
 
