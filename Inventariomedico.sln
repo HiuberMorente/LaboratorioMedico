@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEGOCIO", "DOMINIO\NEGOCIO.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACCESOADATOS", "ACCESOADATOS\ACCESOADATOS.csproj", "{309AD758-309A-49E0-9EB5-020059CFE959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capacomun", "..\..\..\Ferreteria_Vidri\Capacomun\Capacomun.csproj", "{B23422C6-9566-48FE-A49B-CB67ED36330B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capacomun", "Capacomun\Capacomun.csproj", "{B23422C6-9566-48FE-A49B-CB67ED36330B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

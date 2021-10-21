@@ -52,13 +52,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Ferreteria_Vidri\Capacomun\Capacomun.csproj">
-      <Project>{b23422c6-9566-48fe-a49b-cb67ed36330b}</Project>
-      <Name>Capacomun</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ACCESOADATOS\ACCESOADATOS.csproj">
       <Project>{309ad758-309a-49e0-9eb5-020059cfe959}</Project>
       <Name>ACCESOADATOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capacomun\Capacomun.csproj">
+      <Project>{b23422c6-9566-48fe-a49b-cb67ed36330b}</Project>
+      <Name>Capacomun</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

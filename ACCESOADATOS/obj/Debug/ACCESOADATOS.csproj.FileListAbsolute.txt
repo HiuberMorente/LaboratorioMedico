@@ -19,3 +19,12 @@ D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\ACCESOADATOS\
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\ACCESOADATOS\bin\Debug\Capacomun.dll
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\ACCESOADATOS\bin\Debug\Capacomun.pdb
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.CopyComplete
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.AssemblyReference.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.CoreCompileInputs.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\bin\Debug\ACCESOADATOS.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\bin\Debug\ACCESOADATOS.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\bin\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\ACCESOADATOS\obj\Debug\ACCESOADATOS.csproj.CopyComplete

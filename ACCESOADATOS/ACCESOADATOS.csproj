@@ -55,7 +55,7 @@
     <Compile Include="Userdao.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Ferreteria_Vidri\Capacomun\Capacomun.csproj">
+    <ProjectReference Include="..\Capacomun\Capacomun.csproj">
       <Project>{b23422c6-9566-48fe-a49b-cb67ed36330b}</Project>
       <Name>Capacomun</Name>
     </ProjectReference>

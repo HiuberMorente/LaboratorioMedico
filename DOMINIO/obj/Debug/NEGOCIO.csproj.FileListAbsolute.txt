@@ -27,3 +27,14 @@ D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\D
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.pdb
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Debug\Capacomun.dll
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\ACCESOADATOS.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CopyComplete

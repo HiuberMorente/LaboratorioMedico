@@ -10,6 +10,9 @@ namespace Capacomun.Cache
     {
 
         public static int roles_id { get; set; }
+        public static int Id { get; set; }
+        public static string nombre { get; set; }
+        public static string apellido { get; set; }
 
     }
 }

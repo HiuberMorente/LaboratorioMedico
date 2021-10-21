@@ -18,7 +18,7 @@ namespace PRESENTACION
     {
         private bool IsNuevo = true;
 
-        private int idus = Cachesesionuser.Id; 
+        private int idus = Cachesesionuser.roles_id; 
 
         private DataTable dtDetalle;
 

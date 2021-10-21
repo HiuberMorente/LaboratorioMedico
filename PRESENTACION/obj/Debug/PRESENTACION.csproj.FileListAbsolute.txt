@@ -83,3 +83,47 @@ D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\PRESENTACION\
 C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
 C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exe
 C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formcliente.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formclienteedit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formclientea.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formcompra.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formcompras.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formcompras1.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formcomprasproductos.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exemanes.Formexamenedit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exemanes.Formexamenes.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formexamenvista.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Form1.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Login.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Forminsumos.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Forminsumosedit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Forminsumos1.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formproveedor.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formproveedores1.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.clientes.Formproveedoreedit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formpruebas.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formpruebasinsert.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formpruebasedit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Formpruebasprodctos.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pruebas.Formtipo.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pruebas.FormtipoAgregar.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pruebas.FormtipoEditar.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.usuarios.FormUsuario.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.usuarios.FormUsuarioEdit.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.usuarios.FormUsuarioInsert.resources
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\ACCESOADATOS.dll
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\DOMINIO.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\bin\Debug\ACCESOADATOS.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.CopyComplete
