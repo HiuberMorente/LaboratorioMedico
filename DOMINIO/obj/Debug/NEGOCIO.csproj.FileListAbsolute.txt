@@ -37,3 +37,4 @@ C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CoreCompileInputs.cache
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.dll
 C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\hiube\Downloads\Inventariomedico (4)\Inventariomedico\DOMINIO\obj\Debug\NEGOCIO.csproj.CopyComplete

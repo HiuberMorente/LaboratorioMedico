@@ -10,14 +10,17 @@ namespace ACCESOADATOS
 {
     public class Conexion
     {
-        public static string Conec = "Server=(Local)/SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true";
+        //public static string Conec = "Server=(Local);DataBase=laboratorioPruebas; integrated security= true";
+        public static string Conec = "Server=(Local)\\SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true";
 
 
-        private SqlConnection Conexion1 = new SqlConnection("Server=(Local)/SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true");
+        //private SqlConnection Conexion1 = new SqlConnection("Server=(Local);DataBase=laboratorioPruebas; integrated security= true");
+        private SqlConnection Conexion1 = new SqlConnection("Server=(Local)\\SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true");
         private readonly string connectionString;
         public Conexion()
         {
-            connectionString = "Server=(Local)/SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true";
+            //connectionString = "Server=(Local);DataBase=laboratorioPruebas; integrated security= true";
+            connectionString = "Server=(Local)\\SQLEXPRESS;DataBase=laboratorioPruebas; integrated security= true";
 
 
         }
