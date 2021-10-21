@@ -83,6 +83,7 @@ namespace PRESENTACION
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label5.Location = new System.Drawing.Point(201, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(153, 45);
@@ -226,6 +227,7 @@ namespace PRESENTACION
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.cbproveedor);
             this.groupBox1.Controls.Add(this.txtlote);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(66, 57);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(421, 168);
@@ -297,7 +299,7 @@ namespace PRESENTACION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(554, 454);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lbtotalpaga);
@@ -308,6 +310,7 @@ namespace PRESENTACION
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtiduser);
             this.Controls.Add(this.txtid);
+            this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Formcompras1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Formcompras1";

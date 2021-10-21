@@ -41,7 +41,7 @@ namespace PRESENTACION.pruebas
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.panel1.Controls.Add(this.textBuscar);
             this.panel1.Controls.Add(this.btnagregar);
             this.panel1.Controls.Add(this.dataPruebas);
@@ -68,10 +68,12 @@ namespace PRESENTACION.pruebas
             this.btnagregar.BackColor = System.Drawing.SystemColors.Highlight;
             this.btnagregar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnagregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnagregar.ForeColor = System.Drawing.Color.Black;
+            this.btnagregar.ForeColor = System.Drawing.Color.White;
+            this.btnagregar.Image = global::PRESENTACION.Properties.Resources.add2;
+            this.btnagregar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnagregar.Location = new System.Drawing.Point(12, 93);
             this.btnagregar.Name = "btnagregar";
-            this.btnagregar.Size = new System.Drawing.Size(86, 31);
+            this.btnagregar.Size = new System.Drawing.Size(118, 31);
             this.btnagregar.TabIndex = 2;
             this.btnagregar.Text = "Agregar";
             this.btnagregar.UseVisualStyleBackColor = false;
@@ -109,6 +111,7 @@ namespace PRESENTACION.pruebas
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Location = new System.Drawing.Point(255, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(220, 37);

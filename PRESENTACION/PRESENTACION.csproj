@@ -371,6 +371,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="imagenes\add.png" />
+    <None Include="Resources\addpage.png" />
     <None Include="Resources\boton x blanco1.png" />
     <None Include="Resources\boton x blanco.png" />
     <None Include="Resources\USERturque.png" />

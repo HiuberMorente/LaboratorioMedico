@@ -80,3 +80,6 @@ D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\PRESENTACION\
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.Login.resources
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\PRESENTACION\bin\Debug\Capacomun.dll
 D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\PRESENTACION\bin\Debug\Capacomun.pdb
+C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\ecuxun\Documents\Inventariomedico\PRESENTACION\obj\Debug\PRESENTACION.pdb

@@ -78,17 +78,18 @@ namespace PRESENTACION
             this.label1.Text = "Insumos";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // Formcomprasproductos
+            // Formpruebasprodctos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(633, 320);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtbuscar);
             this.Controls.Add(this.dataproductos);
+            this.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "Formcomprasproductos";
+            this.Name = "Formpruebasprodctos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Productos";
             this.Load += new System.EventHandler(this.Formcomprasproductos_Load);

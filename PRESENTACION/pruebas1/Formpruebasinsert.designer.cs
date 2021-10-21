@@ -74,6 +74,7 @@ namespace PRESENTACION
             this.lbtotalpaga.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbtotalpaga.AutoSize = true;
             this.lbtotalpaga.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbtotalpaga.ForeColor = System.Drawing.SystemColors.Control;
             this.lbtotalpaga.Location = new System.Drawing.Point(637, 473);
             this.lbtotalpaga.Name = "lbtotalpaga";
             this.lbtotalpaga.Size = new System.Drawing.Size(34, 20);
@@ -85,6 +86,7 @@ namespace PRESENTACION
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.SystemColors.Control;
             this.label4.Location = new System.Drawing.Point(528, 473);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(67, 20);
@@ -150,6 +152,7 @@ namespace PRESENTACION
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.Control;
             this.label5.Location = new System.Drawing.Point(457, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(140, 45);
@@ -261,6 +264,7 @@ namespace PRESENTACION
             this.groupBox1.Controls.Add(this.txtprueba);
             this.groupBox1.Controls.Add(this.label9);
             this.groupBox1.Controls.Add(this.cbclientes);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.groupBox1.Location = new System.Drawing.Point(12, 59);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(619, 161);
@@ -272,23 +276,23 @@ namespace PRESENTACION
             // cbtipo
             // 
             this.cbtipo.FormattingEnabled = true;
-            this.cbtipo.Location = new System.Drawing.Point(494, 18);
+            this.cbtipo.Location = new System.Drawing.Point(114, 109);
             this.cbtipo.Name = "cbtipo";
             this.cbtipo.Size = new System.Drawing.Size(104, 21);
             this.cbtipo.TabIndex = 151;
             // 
             // txtdescripcion
             // 
-            this.txtdescripcion.Location = new System.Drawing.Point(340, 74);
+            this.txtdescripcion.Location = new System.Drawing.Point(427, 35);
             this.txtdescripcion.Multiline = true;
             this.txtdescripcion.Name = "txtdescripcion";
-            this.txtdescripcion.Size = new System.Drawing.Size(158, 57);
+            this.txtdescripcion.Size = new System.Drawing.Size(158, 96);
             this.txtdescripcion.TabIndex = 150;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(387, 58);
+            this.label3.Location = new System.Drawing.Point(450, 19);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(63, 13);
             this.label3.TabIndex = 149;
@@ -296,25 +300,26 @@ namespace PRESENTACION
             // 
             // txtobservaciones
             // 
-            this.txtobservaciones.Location = new System.Drawing.Point(64, 74);
+            this.txtobservaciones.Location = new System.Drawing.Point(249, 35);
             this.txtobservaciones.Multiline = true;
             this.txtobservaciones.Name = "txtobservaciones";
-            this.txtobservaciones.Size = new System.Drawing.Size(158, 57);
+            this.txtobservaciones.Size = new System.Drawing.Size(158, 95);
             this.txtobservaciones.TabIndex = 147;
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(246, 19);
+            this.label12.Location = new System.Drawing.Point(47, 70);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(41, 13);
             this.label12.TabIndex = 140;
             this.label12.Text = "Prueba";
+            this.label12.Click += new System.EventHandler(this.label12_Click_1);
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(49, 21);
+            this.label13.Location = new System.Drawing.Point(49, 25);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(39, 13);
             this.label13.TabIndex = 141;
@@ -323,7 +328,7 @@ namespace PRESENTACION
             // Ovservaciones
             // 
             this.Ovservaciones.AutoSize = true;
-            this.Ovservaciones.Location = new System.Drawing.Point(110, 58);
+            this.Ovservaciones.Location = new System.Drawing.Point(286, 19);
             this.Ovservaciones.Name = "Ovservaciones";
             this.Ovservaciones.Size = new System.Drawing.Size(78, 13);
             this.Ovservaciones.TabIndex = 146;
@@ -331,7 +336,7 @@ namespace PRESENTACION
             // 
             // txtprueba
             // 
-            this.txtprueba.Location = new System.Drawing.Point(307, 16);
+            this.txtprueba.Location = new System.Drawing.Point(114, 67);
             this.txtprueba.Name = "txtprueba";
             this.txtprueba.Size = new System.Drawing.Size(104, 20);
             this.txtprueba.TabIndex = 145;
@@ -339,7 +344,7 @@ namespace PRESENTACION
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(429, 22);
+            this.label9.Location = new System.Drawing.Point(49, 113);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(31, 13);
             this.label9.TabIndex = 143;
@@ -348,7 +353,7 @@ namespace PRESENTACION
             // cbclientes
             // 
             this.cbclientes.FormattingEnabled = true;
-            this.cbclientes.Location = new System.Drawing.Point(114, 16);
+            this.cbclientes.Location = new System.Drawing.Point(114, 20);
             this.cbclientes.Name = "cbclientes";
             this.cbclientes.Size = new System.Drawing.Size(104, 21);
             this.cbclientes.TabIndex = 144;
@@ -364,12 +369,13 @@ namespace PRESENTACION
             this.groupBox2.Controls.Add(this.label17);
             this.groupBox2.Controls.Add(this.txtprecio);
             this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.ForeColor = System.Drawing.SystemColors.Control;
             this.groupBox2.Location = new System.Drawing.Point(740, 59);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(265, 161);
             this.groupBox2.TabIndex = 90;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "groupBox2";
+            this.groupBox2.Text = "Datos insumo";
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // label1
@@ -417,7 +423,7 @@ namespace PRESENTACION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(1072, 512);
             this.Controls.Add(this.txtidcompra);
             this.Controls.Add(this.txtidinsumo);

@@ -89,6 +89,7 @@ namespace PRESENTACION
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label5.Location = new System.Drawing.Point(269, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(140, 45);
@@ -229,6 +230,7 @@ namespace PRESENTACION
             this.groupBox1.Controls.Add(this.txtprueba);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.cbclientes);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(16, 57);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(645, 168);
@@ -301,6 +303,7 @@ namespace PRESENTACION
             this.lbtotalpaga.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbtotalpaga.AutoSize = true;
             this.lbtotalpaga.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbtotalpaga.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.lbtotalpaga.Location = new System.Drawing.Point(121, 424);
             this.lbtotalpaga.Name = "lbtotalpaga";
             this.lbtotalpaga.Size = new System.Drawing.Size(34, 20);
@@ -313,6 +316,7 @@ namespace PRESENTACION
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label3.Location = new System.Drawing.Point(12, 424);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(67, 20);
@@ -340,7 +344,7 @@ namespace PRESENTACION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(690, 456);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lbtotalpaga);

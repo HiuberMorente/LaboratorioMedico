@@ -239,6 +239,7 @@ namespace PRESENTACION
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label5.Location = new System.Drawing.Point(293, 9);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(153, 45);
@@ -441,6 +442,7 @@ namespace PRESENTACION
             this.groupBox1.Controls.Add(this.comboBox2);
             this.groupBox1.Controls.Add(this.dtfecha);
             this.groupBox1.Controls.Add(this.label13);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(12, 59);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(385, 161);
@@ -462,6 +464,7 @@ namespace PRESENTACION
             this.groupBox2.Controls.Add(this.txtprecio);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.lblptotal);
+            this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox2.Location = new System.Drawing.Point(409, 59);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(265, 161);
@@ -474,7 +477,7 @@ namespace PRESENTACION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(745, 512);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -487,6 +490,7 @@ namespace PRESENTACION
             this.Controls.Add(this.btnquitar);
             this.Controls.Add(this.btnagregar);
             this.Controls.Add(this.checkBox2);
+            this.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.Name = "Formcompras";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Compras";

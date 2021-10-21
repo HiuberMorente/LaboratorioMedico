@@ -68,6 +68,7 @@ namespace PRESENTACION.usuarios
             // 
             // btncancelar
             // 
+            this.btncancelar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btncancelar.Image = global::PRESENTACION.Properties.Resources.danger;
             this.btncancelar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btncancelar.Location = new System.Drawing.Point(341, 292);
@@ -80,6 +81,7 @@ namespace PRESENTACION.usuarios
             // 
             // btnguardar
             // 
+            this.btnguardar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnguardar.Image = global::PRESENTACION.Properties.Resources.add7;
             this.btnguardar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnguardar.Location = new System.Drawing.Point(186, 292);
@@ -201,6 +203,7 @@ namespace PRESENTACION.usuarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(600, 388);
             this.Controls.Add(this.txtunir);
             this.Controls.Add(this.cbrol);
@@ -218,6 +221,8 @@ namespace PRESENTACION.usuarios
             this.Controls.Add(this.txtnombre);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "FormUsuarioEdit";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Editar Usuario";

@@ -101,6 +101,7 @@ namespace PRESENTACION
         private void Formcomprasproductos_Load(object sender, EventArgs e)
         {
             //Mostrarproducoto();
+            
         }
 
         private void label1_Click(object sender, EventArgs e)

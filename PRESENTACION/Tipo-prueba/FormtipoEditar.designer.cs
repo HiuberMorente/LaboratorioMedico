@@ -53,9 +53,12 @@ namespace PRESENTACION.pruebas
             // 
             // btnguardar
             // 
-            this.btnguardar.Location = new System.Drawing.Point(221, 291);
+            this.btnguardar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnguardar.Image = global::PRESENTACION.Properties.Resources.subir;
+            this.btnguardar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnguardar.Location = new System.Drawing.Point(191, 297);
             this.btnguardar.Name = "btnguardar";
-            this.btnguardar.Size = new System.Drawing.Size(75, 23);
+            this.btnguardar.Size = new System.Drawing.Size(129, 31);
             this.btnguardar.TabIndex = 18;
             this.btnguardar.Text = "Guardar";
             this.btnguardar.UseVisualStyleBackColor = true;
@@ -63,9 +66,12 @@ namespace PRESENTACION.pruebas
             // 
             // btncancelar
             // 
-            this.btncancelar.Location = new System.Drawing.Point(376, 291);
+            this.btncancelar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btncancelar.Image = global::PRESENTACION.Properties.Resources.danger;
+            this.btncancelar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btncancelar.Location = new System.Drawing.Point(346, 297);
             this.btncancelar.Name = "btncancelar";
-            this.btncancelar.Size = new System.Drawing.Size(75, 23);
+            this.btncancelar.Size = new System.Drawing.Size(129, 31);
             this.btncancelar.TabIndex = 19;
             this.btncancelar.Text = "Cancelar";
             this.btncancelar.UseVisualStyleBackColor = true;
@@ -91,17 +97,17 @@ namespace PRESENTACION.pruebas
             // 
             // txtdescripcion
             // 
-            this.txtdescripcion.Location = new System.Drawing.Point(181, 157);
+            this.txtdescripcion.Location = new System.Drawing.Point(197, 157);
             this.txtdescripcion.Multiline = true;
             this.txtdescripcion.Name = "txtdescripcion";
-            this.txtdescripcion.Size = new System.Drawing.Size(436, 113);
+            this.txtdescripcion.Size = new System.Drawing.Size(420, 113);
             this.txtdescripcion.TabIndex = 32;
             // 
             // txtnombre
             // 
             this.txtnombre.Location = new System.Drawing.Point(197, 81);
             this.txtnombre.Name = "txtnombre";
-            this.txtnombre.Size = new System.Drawing.Size(115, 20);
+            this.txtnombre.Size = new System.Drawing.Size(420, 20);
             this.txtnombre.TabIndex = 26;
             this.txtnombre.TextChanged += new System.EventHandler(this.txttelempresa_TextChanged);
             // 
@@ -119,6 +125,7 @@ namespace PRESENTACION.pruebas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(658, 395);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.txtdescripcion);
@@ -128,6 +135,7 @@ namespace PRESENTACION.pruebas
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnguardar);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Name = "FormtipoEditar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Editar Tipo De Prueba";

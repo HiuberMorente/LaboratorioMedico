@@ -54,7 +54,8 @@ namespace PRESENTACION.clientes
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(269, -1);
+            this.label1.ForeColor = System.Drawing.SystemColors.Control;
+            this.label1.Location = new System.Drawing.Point(15, 2);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(172, 37);
             this.label1.TabIndex = 1;
@@ -177,9 +178,9 @@ namespace PRESENTACION.clientes
             // 
             this.btnguardar.Image = global::PRESENTACION.Properties.Resources.add5;
             this.btnguardar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnguardar.Location = new System.Drawing.Point(181, 248);
+            this.btnguardar.Location = new System.Drawing.Point(22, 248);
             this.btnguardar.Name = "btnguardar";
-            this.btnguardar.Size = new System.Drawing.Size(91, 38);
+            this.btnguardar.Size = new System.Drawing.Size(183, 38);
             this.btnguardar.TabIndex = 18;
             this.btnguardar.Text = "Guardar";
             this.btnguardar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -190,9 +191,9 @@ namespace PRESENTACION.clientes
             // 
             this.btncancelar.Image = global::PRESENTACION.Properties.Resources.danger;
             this.btncancelar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btncancelar.Location = new System.Drawing.Point(397, 248);
+            this.btncancelar.Location = new System.Drawing.Point(234, 248);
             this.btncancelar.Name = "btncancelar";
-            this.btncancelar.Size = new System.Drawing.Size(89, 38);
+            this.btncancelar.Size = new System.Drawing.Size(181, 38);
             this.btncancelar.TabIndex = 19;
             this.btncancelar.Text = "Cancelar";
             this.btncancelar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -213,9 +214,10 @@ namespace PRESENTACION.clientes
             this.groupBox1.Controls.Add(this.txttelcontacto);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Location = new System.Drawing.Point(22, 32);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.Control;
+            this.groupBox1.Location = new System.Drawing.Point(22, 42);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(379, 200);
+            this.groupBox1.Size = new System.Drawing.Size(393, 200);
             this.groupBox1.TabIndex = 20;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos Proveedor";
@@ -224,7 +226,8 @@ namespace PRESENTACION.clientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(672, 291);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
+            this.ClientSize = new System.Drawing.Size(434, 293);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnguardar);

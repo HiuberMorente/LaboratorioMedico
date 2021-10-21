@@ -42,10 +42,10 @@ namespace PRESENTACION.clientes
             this.label2 = new System.Windows.Forms.Label();
             this.cbproveedor = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.cbestado = new System.Windows.Forms.ComboBox();
             this.btnguardar = new System.Windows.Forms.Button();
             this.txtcodigo = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.cbestado = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,6 +54,7 @@ namespace PRESENTACION.clientes
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(206, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(128, 37);
@@ -86,6 +87,7 @@ namespace PRESENTACION.clientes
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.SystemColors.Control;
             this.label8.Location = new System.Drawing.Point(506, 57);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(92, 20);
@@ -177,13 +179,25 @@ namespace PRESENTACION.clientes
             this.groupBox1.Controls.Add(this.txtinsumo);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.txtprecio);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.groupBox1.Location = new System.Drawing.Point(23, 50);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(352, 191);
             this.groupBox1.TabIndex = 35;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Datos";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            // 
+            // cbestado
+            // 
+            this.cbestado.FormattingEnabled = true;
+            this.cbestado.Items.AddRange(new object[] {
+            "ACTIVO",
+            "DESCONTINUADO"});
+            this.cbestado.Location = new System.Drawing.Point(135, 156);
+            this.cbestado.Name = "cbestado";
+            this.cbestado.Size = new System.Drawing.Size(191, 21);
+            this.cbestado.TabIndex = 35;
             // 
             // btnguardar
             // 
@@ -216,21 +230,11 @@ namespace PRESENTACION.clientes
             this.label6.Text = "Código";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
-            // cbestado
-            // 
-            this.cbestado.FormattingEnabled = true;
-            this.cbestado.Items.AddRange(new object[] {
-            "ACTIVO",
-            "DESCONTINUADO"});
-            this.cbestado.Location = new System.Drawing.Point(135, 156);
-            this.cbestado.Name = "cbestado";
-            this.cbestado.Size = new System.Drawing.Size(191, 21);
-            this.cbestado.TabIndex = 35;
-            // 
             // Forminsumosedit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(614, 322);
             this.Controls.Add(this.txtcodigo);
             this.Controls.Add(this.label6);

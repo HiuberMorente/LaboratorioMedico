@@ -428,5 +428,10 @@ namespace PRESENTACION
         {
 
         }
+
+        private void label12_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

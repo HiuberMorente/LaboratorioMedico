@@ -223,6 +223,16 @@ namespace PRESENTACION.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap addpage1 {
+            get {
+                object obj = ResourceManager.GetObject("addpage1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap analysis_2030265_1920 {
             get {
                 object obj = ResourceManager.GetObject("analysis-2030265_1920", resourceCulture);

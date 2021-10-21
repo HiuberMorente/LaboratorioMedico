@@ -31,17 +31,17 @@ namespace PRESENTACION.clientes
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.btnagregar = new System.Windows.Forms.Button();
             this.dataproveedor = new System.Windows.Forms.DataGridView();
             this.Eliminar = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnagregar = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataproveedor)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.btnagregar);
             this.panel1.Controls.Add(this.dataproveedor);
@@ -62,6 +62,22 @@ namespace PRESENTACION.clientes
             this.textBox1.TabIndex = 3;
             this.textBox1.Text = "Buscar";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // btnagregar
+            // 
+            this.btnagregar.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnagregar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnagregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnagregar.ForeColor = System.Drawing.Color.Black;
+            this.btnagregar.Image = global::PRESENTACION.Properties.Resources.addpage;
+            this.btnagregar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnagregar.Location = new System.Drawing.Point(437, 64);
+            this.btnagregar.Name = "btnagregar";
+            this.btnagregar.Size = new System.Drawing.Size(34, 35);
+            this.btnagregar.TabIndex = 2;
+            this.btnagregar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnagregar.UseVisualStyleBackColor = false;
+            this.btnagregar.Click += new System.EventHandler(this.button1_Click);
             // 
             // dataproveedor
             // 
@@ -95,28 +111,13 @@ namespace PRESENTACION.clientes
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(213, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(174, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "Examenes";
             this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // btnagregar
-            // 
-            this.btnagregar.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.btnagregar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnagregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnagregar.ForeColor = System.Drawing.Color.Black;
-            this.btnagregar.Image = global::PRESENTACION.Properties.Resources.addpage;
-            this.btnagregar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnagregar.Location = new System.Drawing.Point(437, 64);
-            this.btnagregar.Name = "btnagregar";
-            this.btnagregar.Size = new System.Drawing.Size(34, 35);
-            this.btnagregar.TabIndex = 2;
-            this.btnagregar.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnagregar.UseVisualStyleBackColor = false;
-            this.btnagregar.Click += new System.EventHandler(this.button1_Click);
             // 
             // Formexamenvista
             // 

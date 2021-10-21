@@ -57,6 +57,7 @@ namespace PRESENTACION.clientes
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.label1.Location = new System.Drawing.Point(228, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(172, 37);
@@ -210,6 +211,7 @@ namespace PRESENTACION.clientes
             this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.txtcontacto);
             this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(12, 49);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(406, 204);
@@ -258,6 +260,7 @@ namespace PRESENTACION.clientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(658, 489);
             this.Controls.Add(this.datainsumos);
             this.Controls.Add(this.groupBox1);

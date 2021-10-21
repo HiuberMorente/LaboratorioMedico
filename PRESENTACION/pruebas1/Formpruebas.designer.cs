@@ -52,6 +52,7 @@ namespace PRESENTACION
             // 
             this.lbltotal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.lbltotal.AutoSize = true;
+            this.lbltotal.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lbltotal.Location = new System.Drawing.Point(698, 145);
             this.lbltotal.Name = "lbltotal";
             this.lbltotal.Size = new System.Drawing.Size(35, 13);
@@ -90,6 +91,7 @@ namespace PRESENTACION
             this.label7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label7.Location = new System.Drawing.Point(320, 9);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(143, 37);
@@ -117,6 +119,7 @@ namespace PRESENTACION
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Location = new System.Drawing.Point(232, 75);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(54, 16);
@@ -127,6 +130,7 @@ namespace PRESENTACION
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Location = new System.Drawing.Point(409, 75);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(49, 16);
@@ -198,7 +202,7 @@ namespace PRESENTACION
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(784, 513);
             this.Controls.Add(this.txtbuscar);
             this.Controls.Add(this.cbbusqueda);

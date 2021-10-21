@@ -50,6 +50,7 @@ namespace PRESENTACION.exemanes
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.SystemColors.Control;
             this.label6.Location = new System.Drawing.Point(209, 9);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(139, 37);
@@ -60,6 +61,7 @@ namespace PRESENTACION.exemanes
             // label5
             // 
             this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.SystemColors.Control;
             this.label5.Location = new System.Drawing.Point(459, 59);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(98, 13);
@@ -162,6 +164,7 @@ namespace PRESENTACION.exemanes
             this.groupBox1.Controls.Add(this.cbprueba);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.Control;
             this.groupBox1.Location = new System.Drawing.Point(24, 49);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(305, 161);
@@ -186,6 +189,7 @@ namespace PRESENTACION.exemanes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(4)))), ((int)(((byte)(41)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(575, 287);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label6);
