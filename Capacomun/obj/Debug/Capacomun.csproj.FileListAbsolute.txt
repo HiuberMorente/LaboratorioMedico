@@ -1,0 +1,18 @@
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\bin\Debug\Capacomun.dll
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\bin\Debug\Capacomun.pdb
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.csproj.CoreCompileInputs.cache
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.dll
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.pdb
+C:\Users\teo\source\repos\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.csproj.AssemblyReference.cache
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\bin\Debug\Capacomun.dll
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\bin\Debug\Capacomun.pdb
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.csproj.AssemblyReference.cache
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.csproj.CoreCompileInputs.cache
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.dll
+D:\USUARIOS\ESCRITORIO\Ferreteria_Vidri\Capacomun\obj\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\bin\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\obj\Debug\Capacomun.csproj.AssemblyReference.cache
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\obj\Debug\Capacomun.csproj.CoreCompileInputs.cache
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\obj\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico (3)\Inventariomedico\Capacomun\obj\Debug\Capacomun.pdb
