@@ -1,0 +1,11 @@
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\Capacomun\bin\Debug\Capacomun.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\Capacomun\bin\Debug\Capacomun.pdb
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\Capacomun\obj\Debug\Capacomun.csproj.CoreCompileInputs.cache
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\Capacomun\obj\Debug\Capacomun.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\Capacomun\obj\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\bin\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\bin\Debug\Capacomun.pdb
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\obj\Debug\Capacomun.csproj.AssemblyReference.cache
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\obj\Debug\Capacomun.csproj.CoreCompileInputs.cache
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\obj\Debug\Capacomun.dll
+C:\Users\hiube\Downloads\Inventariomedico10 (1)\Inventariomedico\Capacomun\obj\Debug\Capacomun.pdb

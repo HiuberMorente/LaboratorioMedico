@@ -1,0 +1,11 @@
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\DOMINIO.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\DOMINIO.pdb
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\ACCESOADATOS.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\Capacomun.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\Capacomun.pdb
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\bin\Release\ACCESOADATOS.pdb
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Release\NEGOCIO.csproj.AssemblyReference.cache
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Release\NEGOCIO.csproj.CoreCompileInputs.cache
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Release\NEGOCIO.csproj.CopyComplete
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Release\DOMINIO.dll
+D:\USUARIOS\ESCRITORIO\ecritorio\Inventariomedico\Inventariomedico\DOMINIO\obj\Release\DOMINIO.pdb
